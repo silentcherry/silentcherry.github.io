@@ -1,2 +1,2 @@
-# myfirstsite.github.io
+# silentcherry.github.io
 Мой первый хостинг
